@@ -1,0 +1,6 @@
+{
+    "require": {
+        "phpmailer/phpmailer": "^6.3",
+        "nexmo/client": "^2.4"
+    }
+}
